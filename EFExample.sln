@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFExample", "EFExample\EFExample.csproj", "{FB95922C-21AD-435F-A804-548FEC0B5930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBModels", "DBModels\DBModels.csproj", "{915725E5-0E3E-450E-9655-39AA6A1A1C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5CED313C-157E-4744-B1B8-43F7438B53B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB95922C-21AD-435F-A804-548FEC0B5930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB95922C-21AD-435F-A804-548FEC0B5930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB95922C-21AD-435F-A804-548FEC0B5930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB95922C-21AD-435F-A804-548FEC0B5930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915725E5-0E3E-450E-9655-39AA6A1A1C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915725E5-0E3E-450E-9655-39AA6A1A1C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915725E5-0E3E-450E-9655-39AA6A1A1C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915725E5-0E3E-450E-9655-39AA6A1A1C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CED313C-157E-4744-B1B8-43F7438B53B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CED313C-157E-4744-B1B8-43F7438B53B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CED313C-157E-4744-B1B8-43F7438B53B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CED313C-157E-4744-B1B8-43F7438B53B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
